@@ -1,11 +1,11 @@
 {
-  "name": "raganork-md",
+  "name": "mikaza-akerman",
   "version": "6.1.55",
-  "description": "A multi functional wa bot.",
+  "description": "protecting eren that's my mission.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start index.js --name raganork-md --attach"
+    "start": "pm2 start index.js --name mikaza-akerman--attach"
   },
   "keywords": [
     "whatsapp",
@@ -13,7 +13,7 @@
     "baileys",
     "raganork"
   ],
-  "author": "Sourav K",
+  "author": "MikaZa",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.1",
